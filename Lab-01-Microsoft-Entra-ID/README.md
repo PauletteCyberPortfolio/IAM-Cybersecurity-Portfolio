@@ -26,3 +26,21 @@ This hands-on lab demonstrates basic identity provisioning and administrative ro
 **Role-Based Access Control (RBAC):** Assigning permissions through predefined roles rather than granting unrestricted access.
 
 **Least Privilege:** Granting only the access necessary to perform an authorized task and removing elevated permissions when they are no longer required.
+
+## Lab Screenshots
+
+### Step 1: Navigate to Create New User
+![Create New User](screenshots/01_create_user.png)
+
+### Step 2: Verify User Account Creation
+![User Account Created](screenshots/02_account_created.png)
+
+### Step 3: Assign Application Administrator Role
+![Application Administrator Role](screenshots/03_application_admin_assigned.png)
+
+### Step 4: Remove Administrator Role
+![Remove Role](screenshots/04_remove_role.png)
+
+### Step 5: Verify Role Removal
+![Role Successfully Removed](screenshots/05_role_removed.png)
+  
