@@ -43,4 +43,13 @@ This hands-on lab demonstrates basic identity provisioning and administrative ro
 
 ### Step 5: Verify Role Removal
 ![Role Successfully Removed](screenshots/05_role_removed.png)
-  
+
+## Lessons Learned
+
+During this lab, I learned how to create a user account, assign an administrative role, and remove that role using Microsoft Entra ID.
+
+One important takeaway was understanding the principle of least privilege. Administrative permissions should only be granted when necessary and removed when they are no longer required.
+
+Removing unnecessary privileges helps reduce the risk of unauthorized access, security breaches, and potential damage if an account becomes compromised.
+
+This exercise helped me understand how user provisioning, role-based access control, and access revocation contribute to an organization's overall security. 
