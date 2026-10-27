@@ -80,7 +80,7 @@ It also highlighted the importance of recognizing phishing attempts, responding 
 ### Initial Connectivity Test
 ![Failed initial connectivity test](04_initial_connectivity.png)
 
-### Browser Security Warning
+### Browser Certificate Security Warning
 ![Browser security warning during simulation](06_browser_warning.png)
 
 ### Reverse-Shell Session Verification
