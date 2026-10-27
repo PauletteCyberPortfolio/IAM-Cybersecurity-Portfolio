@@ -85,3 +85,31 @@ It also highlighted the importance of recognizing phishing attempts, responding 
 
 ### Reverse-Shell Session Verification
 ![Successful reverse-shell session and user verification](03_final_verification.png)
+
+## Security Lessons Learned
+
+This simulation helped me understand how social engineering attackers can manipulate individuals by creating emails that appear familiar and trustworthy.
+
+The phishing email used language suggesting that the sender was associated with the organization. It also instructed the recipient to ignore security warnings, which was an important indicator of suspicious activity.
+
+I learned that phishing attacks do not always rely on technical vulnerabilities. They can also exploit human trust and influence users to take actions that compromise network security.
+
+### Recommended Security Practices
+
+- Verify suspicious emails and requests through trusted communication channels.
+- Avoid downloading or executing unexpected files.
+- Report suspected phishing attempts through the organization's approved reporting process.
+- Follow security warnings rather than bypassing them without verification.
+- Implement security awareness training and monitor suspicious outbound network activity.
+
+## Conclusion
+
+This lab demonstrated how a simulated phishing attack could lead to unauthorized access to an internal Windows workstation through a reverse-shell connection.
+
+By completing this exercise, I gained hands-on experience with network connectivity testing, social engineering techniques, firewall concepts, and access verification.
+
+The experience strengthened my understanding of how technical security controls and employee awareness work together to protect organizational systems.
+
+---
+
+*This project documents an authorized cybersecurity training simulation. No real-world systems or users were targeted.*
