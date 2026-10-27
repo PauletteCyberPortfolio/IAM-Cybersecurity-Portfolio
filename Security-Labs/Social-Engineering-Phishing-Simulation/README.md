@@ -74,3 +74,14 @@ After establishing the reverse-shell session, I verified access by checking the 
 The simulation demonstrated that network segmentation and firewall protections alone may not prevent a compromise when an internal user executes malicious software.
 
 It also highlighted the importance of recognizing phishing attempts, responding appropriately to security warnings, and monitoring outbound network connections.
+
+## Lab Evidence
+
+### Initial Connectivity Test
+![Failed initial connectivity test](04_initial_connectivity.png)
+
+### Browser Security Warning
+![Browser security warning during simulation](06_browser_warning.png)
+
+### Reverse-Shell Session Verification
+![Successful reverse-shell session and user verification](03_final_verification.png)
